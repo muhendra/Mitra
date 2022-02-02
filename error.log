@@ -1,0 +1,222 @@
+[Thu Jul 22 02:56:03.343159 2021] [authz_core:error] [pid 6280] [client 172.31.215.1:61880] AH01630: client denied by server configuration: /var/www/mitra/.ht_wsr.txt
+[Thu Jul 22 02:56:03.347141 2021] [authz_core:error] [pid 29458] [client 172.31.215.1:43706] AH01630: client denied by server configuration: /var/www/mitra/.hta
+[Thu Jul 22 02:56:03.349339 2021] [authz_core:error] [pid 1469] [client 172.31.215.1:20013] AH01630: client denied by server configuration: /var/www/mitra/.htaccess
+[Thu Jul 22 02:56:03.354806 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:37604] AH01630: client denied by server configuration: /var/www/mitra/.htaccess-dev
+[Thu Jul 22 02:56:03.356830 2021] [authz_core:error] [pid 6280] [client 172.31.215.1:61880] AH01630: client denied by server configuration: /var/www/mitra/.htaccess-local
+[Thu Jul 22 02:56:03.359918 2021] [authz_core:error] [pid 1469] [client 172.31.215.1:20013] AH01630: client denied by server configuration: /var/www/mitra/.htaccess.BAK
+[Thu Jul 22 02:56:03.362318 2021] [authz_core:error] [pid 29458] [client 172.31.215.1:43706] AH01630: client denied by server configuration: /var/www/mitra/.htaccess.bak
+[Thu Jul 22 02:56:03.363839 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:37604] AH01630: client denied by server configuration: /var/www/mitra/.htaccess.bak1
+[Thu Jul 22 02:56:03.366774 2021] [authz_core:error] [pid 1812] [client 172.31.215.1:20012] AH01630: client denied by server configuration: /var/www/mitra/.htaccess-marco
+[Thu Jul 22 02:56:03.368306 2021] [authz_core:error] [pid 1469] [client 172.31.215.1:20013] AH01630: client denied by server configuration: /var/www/mitra/.htaccess.old
+[Thu Jul 22 02:56:03.370988 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:37604] AH01630: client denied by server configuration: /var/www/mitra/.htaccess.inc
+[Thu Jul 22 02:56:03.373572 2021] [authz_core:error] [pid 6280] [client 172.31.215.1:61880] AH01630: client denied by server configuration: /var/www/mitra/.htaccess.orig
+[Thu Jul 22 02:56:03.375752 2021] [authz_core:error] [pid 1812] [client 172.31.215.1:20012] AH01630: client denied by server configuration: /var/www/mitra/.htaccess.sample
+[Thu Jul 22 02:56:03.377596 2021] [authz_core:error] [pid 32462] [client 172.31.215.1:8339] AH01630: client denied by server configuration: /var/www/mitra/.htaccess.save
+[Thu Jul 22 02:56:03.379176 2021] [authz_core:error] [pid 1811] [client 172.31.215.1:20009] AH01630: client denied by server configuration: /var/www/mitra/.htaccess.txt
+[Thu Jul 22 02:56:03.383459 2021] [authz_core:error] [pid 29458] [client 172.31.215.1:43706] AH01630: client denied by server configuration: /var/www/mitra/.htaccess
+[Thu Jul 22 02:56:03.385734 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:37604] AH01630: client denied by server configuration: /var/www/mitra/.htaccessBAK
+[Thu Jul 22 02:56:03.388634 2021] [authz_core:error] [pid 1811] [client 172.31.215.1:20009] AH01630: client denied by server configuration: /var/www/mitra/.htaccessOLD
+[Thu Jul 22 02:56:03.391250 2021] [authz_core:error] [pid 32462] [client 172.31.215.1:8339] AH01630: client denied by server configuration: /var/www/mitra/.htaccessOLD2
+[Thu Jul 22 02:56:03.393632 2021] [authz_core:error] [pid 1812] [client 172.31.215.1:20012] AH01630: client denied by server configuration: /var/www/mitra/.htaccess_extra
+[Thu Jul 22 02:56:03.397198 2021] [authz_core:error] [pid 1469] [client 172.31.215.1:20013] AH01630: client denied by server configuration: /var/www/mitra/.htaccess_orig
+[Thu Jul 22 02:56:03.400867 2021] [authz_core:error] [pid 29458] [client 172.31.215.1:43706] AH01630: client denied by server configuration: /var/www/mitra/.htaccess_sc
+[Thu Jul 22 02:56:03.404627 2021] [authz_core:error] [pid 6280] [client 172.31.215.1:61880] AH01630: client denied by server configuration: /var/www/mitra/.htaccess~
+[Thu Jul 22 02:56:03.407016 2021] [authz_core:error] [pid 1469] [client 172.31.215.1:20013] AH01630: client denied by server configuration: /var/www/mitra/.htm
+[Thu Jul 22 02:56:03.408218 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:37604] AH01630: client denied by server configuration: /var/www/mitra/.htgroup
+[Thu Jul 22 02:56:03.409814 2021] [authz_core:error] [pid 32462] [client 172.31.215.1:8339] AH01630: client denied by server configuration: /var/www/mitra/.html
+[Thu Jul 22 02:56:03.413972 2021] [authz_core:error] [pid 1811] [client 172.31.215.1:20009] AH01630: client denied by server configuration: /var/www/mitra/.htpasswd
+[Thu Jul 22 02:56:03.416381 2021] [authz_core:error] [pid 6280] [client 172.31.215.1:61880] AH01630: client denied by server configuration: /var/www/mitra/.htpasswd-old
+[Thu Jul 22 02:56:03.421226 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:37604] AH01630: client denied by server configuration: /var/www/mitra/.htpasswd.bak
+[Thu Jul 22 02:56:03.424755 2021] [authz_core:error] [pid 1812] [client 172.31.215.1:20012] AH01630: client denied by server configuration: /var/www/mitra/.htpasswd.inc
+[Thu Jul 22 02:56:03.427280 2021] [authz_core:error] [pid 1469] [client 172.31.215.1:20013] AH01630: client denied by server configuration: /var/www/mitra/.htpasswd
+[Thu Jul 22 02:56:03.431025 2021] [authz_core:error] [pid 1812] [client 172.31.215.1:20012] AH01630: client denied by server configuration: /var/www/mitra/.htpasswd_test
+[Thu Jul 22 02:56:03.434250 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:37604] AH01630: client denied by server configuration: /var/www/mitra/.htusers
+[Thu Jul 22 02:56:03.441314 2021] [authz_core:error] [pid 32462] [client 172.31.215.1:8339] AH01630: client denied by server configuration: /var/www/mitra/.httr-oauth
+[Thu Jul 22 02:56:03.442565 2021] [authz_core:error] [pid 29458] [client 172.31.215.1:43706] AH01630: client denied by server configuration: /var/www/mitra/.htpasswds
+[Thu Jul 22 02:56:05.367112 2021] [authz_core:error] [pid 1811] [client 172.31.215.1:20009] AH01630: client denied by server configuration: /var/www/mitra/.user.ini
+[Thu Jul 22 02:56:26.099434 2021] [authz_core:error] [pid 32462] [client 172.31.215.1:20091] AH01630: client denied by server configuration: /var/www/mitra/application/cache/
+[Thu Jul 22 02:56:26.099474 2021] [authz_core:error] [pid 1815] [client 172.31.215.1:20092] AH01630: client denied by server configuration: /var/www/mitra/application/
+[Thu Jul 22 02:56:26.099743 2021] [authz_core:error] [pid 1813] [client 172.31.215.1:20094] AH01630: client denied by server configuration: /var/www/mitra/application/configs
+[Thu Jul 22 02:56:26.099811 2021] [authz_core:error] [pid 1811] [client 172.31.215.1:20095] AH01630: client denied by server configuration: /var/www/mitra/application
+[Thu Jul 22 02:56:26.101563 2021] [authz_core:error] [pid 1816] [client 172.31.215.1:20098] AH01630: client denied by server configuration: /var/www/mitra/application/logs/
+[Thu Jul 22 02:56:26.397222 2021] [autoindex:error] [pid 6639] [client 172.31.215.1:20093] AH01276: Cannot serve directory /var/www/mitra/assets/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Jul 22 02:56:28.983750 2021] [cgi:error] [pid 11143] [client 172.31.215.1:20102] attempt to invoke directory as script: /var/www/cgi-bin/
+[Thu Jul 22 02:56:28.987240 2021] [cgi:error] [pid 1469] [client 172.31.215.1:20103] script not found or unable to stat: /var/www/cgi-bin/ViewLog.asp
+[Thu Jul 22 02:56:28.989199 2021] [cgi:error] [pid 1815] [client 172.31.215.1:20107] script not found or unable to stat: /var/www/cgi-bin/a1stats
+[Thu Jul 22 02:56:28.994242 2021] [cgi:error] [pid 11143] [client 172.31.215.1:20102] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Thu Jul 22 02:56:28.997008 2021] [cgi:error] [pid 1469] [client 172.31.215.1:20103] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Thu Jul 22 02:56:28.999918 2021] [cgi:error] [pid 29458] [client 172.31.215.1:20105] script not found or unable to stat: /var/www/cgi-bin/htimage.exe
+[Thu Jul 22 02:56:29.005140 2021] [cgi:error] [pid 1469] [client 172.31.215.1:20103] script not found or unable to stat: /var/www/cgi-bin/htmlscript
+[Thu Jul 22 02:56:29.008586 2021] [cgi:error] [pid 1815] [client 172.31.215.1:20107] script not found or unable to stat: /var/www/cgi-bin/imagemap.exe
+[Thu Jul 22 02:56:29.012952 2021] [cgi:error] [pid 11143] [client 172.31.215.1:20102] script not found or unable to stat: /var/www/cgi-bin/index.html
+[Thu Jul 22 02:56:29.015330 2021] [php7:error] [pid 29458] [client 172.31.215.1:20105] script '/var/www/cgi-bin/logi.php' not found or unable to stat
+[Thu Jul 22 02:56:29.020797 2021] [cgi:error] [pid 1469] [client 172.31.215.1:20103] script not found or unable to stat: /var/www/cgi-bin/login
+[Thu Jul 22 02:56:29.023315 2021] [cgi:error] [pid 11143] [client 172.31.215.1:20102] script not found or unable to stat: /var/www/cgi-bin/login.cgi
+[Thu Jul 22 02:56:29.026384 2021] [cgi:error] [pid 1775] [client 172.31.215.1:20104] script not found or unable to stat: /var/www/cgi-bin/php.ini
+[Thu Jul 22 02:56:29.028158 2021] [cgi:error] [pid 21125] [client 172.31.215.1:20106] script not found or unable to stat: /var/www/cgi-bin/printenv.pl
+[Thu Jul 22 02:56:29.031863 2021] [cgi:error] [pid 1469] [client 172.31.215.1:20103] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Thu Jul 22 02:56:29.033931 2021] [cgi:error] [pid 1817] [client 172.31.215.1:20096] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Thu Jul 22 02:56:37.281714 2021] [autoindex:error] [pid 1773] [client 172.31.215.1:20142] AH01276: Cannot serve directory /var/www/mitra/images/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Jul 22 02:56:38.560157 2021] [autoindex:error] [pid 1816] [client 172.31.215.1:20144] AH01276: Cannot serve directory /var/www/mitra/js/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Jul 22 02:56:52.699459 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:20192] AH01630: client denied by server configuration: /var/www/mitra/system
+[Thu Jul 22 02:56:52.755577 2021] [authz_core:error] [pid 1469] [client 172.31.215.1:20195] AH01630: client denied by server configuration: /var/www/mitra/system/
+[Thu Jul 22 02:56:52.758297 2021] [authz_core:error] [pid 1816] [client 172.31.215.1:20194] AH01630: client denied by server configuration: /var/www/mitra/system/cache
+[Thu Jul 22 02:56:52.762234 2021] [authz_core:error] [pid 29458] [client 172.31.215.1:20187] AH01630: client denied by server configuration: /var/www/mitra/system/cron
+[Thu Jul 22 02:56:52.766423 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:20192] AH01630: client denied by server configuration: /var/www/mitra/system/error.txt
+[Thu Jul 22 02:56:52.768798 2021] [authz_core:error] [pid 1816] [client 172.31.215.1:20194] AH01630: client denied by server configuration: /var/www/mitra/system/expressionengine
+[Thu Jul 22 02:56:52.774348 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:20192] AH01630: client denied by server configuration: /var/www/mitra/system/expressionengine
+[Thu Jul 22 02:56:52.775163 2021] [authz_core:error] [pid 29458] [client 172.31.215.1:20187] AH01630: client denied by server configuration: /var/www/mitra/system/log
+[Thu Jul 22 02:56:52.777672 2021] [authz_core:error] [pid 1469] [client 172.31.215.1:20195] AH01630: client denied by server configuration: /var/www/mitra/system/logs
+[Thu Jul 22 02:56:52.787829 2021] [authz_core:error] [pid 1812] [client 172.31.215.1:20196] AH01630: client denied by server configuration: /var/www/mitra/system/storage
+[Thu Jul 22 02:56:53.829860 2021] [autoindex:error] [pid 6280] [client 172.31.215.1:20190] AH01276: Cannot serve directory /var/www/mitra/tmp/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Jul 22 02:56:54.525908 2021] [autoindex:error] [pid 1815] [client 172.31.215.1:20193] AH01276: Cannot serve directory /var/www/mitra/uploads/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Jul 22 02:56:55.720280 2021] [autoindex:error] [pid 32462] [client 172.31.215.1:20201] AH01276: Cannot serve directory /var/www/mitra/vendor/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Jul 22 02:57:45.724930 2021] [authz_core:error] [pid 1774] [client 172.31.215.1:55113] AH01630: client denied by server configuration: /var/www/mitra/assets/.hta
+[Thu Jul 22 02:57:45.724921 2021] [authz_core:error] [pid 1820] [client 172.31.215.1:39944] AH01630: client denied by server configuration: /var/www/mitra/assets/.ht_wsr.txt
+[Thu Jul 22 02:57:45.733662 2021] [authz_core:error] [pid 1773] [client 172.31.215.1:61114] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess
+[Thu Jul 22 02:57:45.733998 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:49798] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess-local
+[Thu Jul 22 02:57:45.734324 2021] [authz_core:error] [pid 29458] [client 172.31.215.1:60090] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess-dev
+[Thu Jul 22 02:57:45.734874 2021] [authz_core:error] [pid 1815] [client 172.31.215.1:43775] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess-marco
+[Thu Jul 22 02:57:45.737117 2021] [authz_core:error] [pid 1775] [client 172.31.215.1:3517] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess.BAK
+[Thu Jul 22 02:57:45.740972 2021] [authz_core:error] [pid 29458] [client 172.31.215.1:60090] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess.bak
+[Thu Jul 22 02:57:45.742824 2021] [authz_core:error] [pid 6280] [client 172.31.215.1:59925] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess.bak1
+[Thu Jul 22 02:57:45.745220 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:49798] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess.inc
+[Thu Jul 22 02:57:45.747575 2021] [authz_core:error] [pid 1774] [client 172.31.215.1:55113] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess.old
+[Thu Jul 22 02:57:45.748909 2021] [authz_core:error] [pid 1820] [client 172.31.215.1:39944] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess.sample
+[Thu Jul 22 02:57:45.750923 2021] [authz_core:error] [pid 1775] [client 172.31.215.1:3517] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess.save
+[Thu Jul 22 02:57:45.756252 2021] [authz_core:error] [pid 1773] [client 172.31.215.1:61114] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess
+[Thu Jul 22 02:57:45.757806 2021] [authz_core:error] [pid 1774] [client 172.31.215.1:55113] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccessBAK
+[Thu Jul 22 02:57:45.759726 2021] [authz_core:error] [pid 1817] [client 172.31.215.1:44836] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccessOLD
+[Thu Jul 22 02:57:45.762110 2021] [authz_core:error] [pid 1815] [client 172.31.215.1:43775] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccessOLD2
+[Thu Jul 22 02:57:45.764605 2021] [authz_core:error] [pid 29458] [client 172.31.215.1:60090] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess_extra
+[Thu Jul 22 02:57:45.768017 2021] [authz_core:error] [pid 1773] [client 172.31.215.1:61114] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess_orig
+[Thu Jul 22 02:57:45.770604 2021] [authz_core:error] [pid 1817] [client 172.31.215.1:44836] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess~
+[Thu Jul 22 02:57:45.773519 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:49798] AH01630: client denied by server configuration: /var/www/mitra/assets/.htgroup
+[Thu Jul 22 02:57:45.775991 2021] [authz_core:error] [pid 1774] [client 172.31.215.1:55113] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess_sc
+[Thu Jul 22 02:57:45.777637 2021] [authz_core:error] [pid 1820] [client 172.31.215.1:39944] AH01630: client denied by server configuration: /var/www/mitra/assets/.htm
+[Thu Jul 22 02:57:45.779342 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:43772] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess.orig
+[Thu Jul 22 02:57:45.784620 2021] [authz_core:error] [pid 1817] [client 172.31.215.1:44836] AH01630: client denied by server configuration: /var/www/mitra/assets/.htaccess.txt
+[Thu Jul 22 02:57:45.787765 2021] [authz_core:error] [pid 1820] [client 172.31.215.1:39944] AH01630: client denied by server configuration: /var/www/mitra/assets/.html
+[Thu Jul 22 02:57:45.790118 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:43772] AH01630: client denied by server configuration: /var/www/mitra/assets/.htpasswd
+[Thu Jul 22 02:57:45.794541 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:49798] AH01630: client denied by server configuration: /var/www/mitra/assets/.htpasswd-old
+[Thu Jul 22 02:57:45.797474 2021] [authz_core:error] [pid 1817] [client 172.31.215.1:44836] AH01630: client denied by server configuration: /var/www/mitra/assets/.htpasswd.bak
+[Thu Jul 22 02:57:45.799737 2021] [authz_core:error] [pid 29458] [client 172.31.215.1:60090] AH01630: client denied by server configuration: /var/www/mitra/assets/.htpasswd.inc
+[Thu Jul 22 02:57:45.801593 2021] [authz_core:error] [pid 1773] [client 172.31.215.1:61114] AH01630: client denied by server configuration: /var/www/mitra/assets/.htpasswd
+[Thu Jul 22 02:57:45.804378 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:49798] AH01630: client denied by server configuration: /var/www/mitra/assets/.htpasswd_test
+[Thu Jul 22 02:57:45.807987 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:43772] AH01630: client denied by server configuration: /var/www/mitra/assets/.httr-oauth
+[Thu Jul 22 02:57:45.810434 2021] [authz_core:error] [pid 29458] [client 172.31.215.1:60090] AH01630: client denied by server configuration: /var/www/mitra/assets/.htusers
+[Thu Jul 22 02:57:45.812504 2021] [authz_core:error] [pid 1775] [client 172.31.215.1:3517] AH01630: client denied by server configuration: /var/www/mitra/assets/.htpasswds
+[Thu Jul 22 02:57:47.587950 2021] [authz_core:error] [pid 1823] [client 172.31.215.1:43791] AH01630: client denied by server configuration: /var/www/mitra/assets/.user.ini
+[Thu Jul 22 02:58:20.126361 2021] [autoindex:error] [pid 1826] [client 172.31.215.1:43901] AH01276: Cannot serve directory /var/www/mitra/assets/js/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Jul 22 02:58:41.944250 2021] [authz_core:error] [pid 1775] [client 172.31.215.1:37921] AH01630: client denied by server configuration: /var/www/mitra/tmp/.hta
+[Thu Jul 22 02:58:41.947167 2021] [authz_core:error] [pid 1815] [client 172.31.215.1:58267] AH01630: client denied by server configuration: /var/www/mitra/tmp/.ht_wsr.txt
+[Thu Jul 22 02:58:41.949570 2021] [authz_core:error] [pid 1816] [client 172.31.215.1:38431] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess
+[Thu Jul 22 02:58:41.951130 2021] [authz_core:error] [pid 1775] [client 172.31.215.1:37921] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess-dev
+[Thu Jul 22 02:58:41.956720 2021] [authz_core:error] [pid 1815] [client 172.31.215.1:58267] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess-marco
+[Thu Jul 22 02:58:41.959810 2021] [authz_core:error] [pid 1816] [client 172.31.215.1:38431] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess.BAK
+[Thu Jul 22 02:58:41.962336 2021] [authz_core:error] [pid 1823] [client 172.31.215.1:3140] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess-local
+[Thu Jul 22 02:58:41.962692 2021] [authz_core:error] [pid 1821] [client 172.31.215.1:3136] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess.bak
+[Thu Jul 22 02:58:41.964689 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:3138] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess.bak1
+[Thu Jul 22 02:58:41.967758 2021] [authz_core:error] [pid 1826] [client 172.31.215.1:16309] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess.inc
+[Thu Jul 22 02:58:41.970696 2021] [authz_core:error] [pid 1821] [client 172.31.215.1:3136] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess.old
+[Thu Jul 22 02:58:41.975184 2021] [authz_core:error] [pid 1815] [client 172.31.215.1:58267] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess.sample
+[Thu Jul 22 02:58:41.977757 2021] [authz_core:error] [pid 1823] [client 172.31.215.1:3140] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess.orig
+[Thu Jul 22 02:58:41.980992 2021] [authz_core:error] [pid 1775] [client 172.31.215.1:37921] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess.save
+[Thu Jul 22 02:58:41.983818 2021] [authz_core:error] [pid 1826] [client 172.31.215.1:16309] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess.txt
+[Thu Jul 22 02:58:41.986889 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:3138] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess
+[Thu Jul 22 02:58:41.991051 2021] [authz_core:error] [pid 1816] [client 172.31.215.1:38431] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccessBAK
+[Thu Jul 22 02:58:41.995534 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:3138] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccessOLD
+[Thu Jul 22 02:58:41.998175 2021] [authz_core:error] [pid 1815] [client 172.31.215.1:58267] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccessOLD2
+[Thu Jul 22 02:58:42.001639 2021] [authz_core:error] [pid 1821] [client 172.31.215.1:3136] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess_orig
+[Thu Jul 22 02:58:42.003312 2021] [authz_core:error] [pid 1773] [client 172.31.215.1:24630] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess_extra
+[Thu Jul 22 02:58:42.007106 2021] [authz_core:error] [pid 1825] [client 172.31.215.1:3139] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htgroup
+[Thu Jul 22 02:58:42.009751 2021] [authz_core:error] [pid 1775] [client 172.31.215.1:37921] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess~
+[Thu Jul 22 02:58:42.019410 2021] [authz_core:error] [pid 1815] [client 172.31.215.1:58267] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htm
+[Thu Jul 22 02:58:42.020895 2021] [authz_core:error] [pid 1773] [client 172.31.215.1:24630] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htaccess_sc
+[Thu Jul 22 02:58:42.023389 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:3138] AH01630: client denied by server configuration: /var/www/mitra/tmp/.html
+[Thu Jul 22 02:58:42.025167 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:20864] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htpasswd
+[Thu Jul 22 02:58:42.029703 2021] [authz_core:error] [pid 1825] [client 172.31.215.1:3139] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htpasswd-old
+[Thu Jul 22 02:58:42.033803 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:20864] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htpasswd.bak
+[Thu Jul 22 02:58:42.039731 2021] [authz_core:error] [pid 1816] [client 172.31.215.1:38431] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htpasswd.inc
+[Thu Jul 22 02:58:42.042789 2021] [authz_core:error] [pid 1826] [client 172.31.215.1:16309] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htpasswd
+[Thu Jul 22 02:58:42.046512 2021] [authz_core:error] [pid 1825] [client 172.31.215.1:3139] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htpasswd_test
+[Thu Jul 22 02:58:42.048397 2021] [authz_core:error] [pid 1816] [client 172.31.215.1:38431] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htpasswds
+[Thu Jul 22 02:58:42.051278 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:3138] AH01630: client denied by server configuration: /var/www/mitra/tmp/.htusers
+[Thu Jul 22 02:58:42.053564 2021] [authz_core:error] [pid 6639] [client 172.31.215.1:20864] AH01630: client denied by server configuration: /var/www/mitra/tmp/.httr-oauth
+[Thu Jul 22 02:58:43.934170 2021] [authz_core:error] [pid 1774] [client 172.31.215.1:3145] AH01630: client denied by server configuration: /var/www/mitra/tmp/.user.ini
+[Thu Jul 22 02:59:38.204863 2021] [authz_core:error] [pid 1821] [client 172.31.215.1:11157] AH01630: client denied by server configuration: /var/www/mitra/uploads/.ht_wsr.txt
+[Thu Jul 22 02:59:38.206884 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:34030] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess
+[Thu Jul 22 02:59:38.209093 2021] [authz_core:error] [pid 1775] [client 172.31.215.1:34029] AH01630: client denied by server configuration: /var/www/mitra/uploads/.hta
+[Thu Jul 22 02:59:38.210898 2021] [authz_core:error] [pid 1822] [client 172.31.215.1:34027] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess-dev
+[Thu Jul 22 02:59:38.212721 2021] [authz_core:error] [pid 1816] [client 172.31.215.1:43583] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess-local
+[Thu Jul 22 02:59:38.215504 2021] [authz_core:error] [pid 1825] [client 172.31.215.1:63208] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess.BAK
+[Thu Jul 22 02:59:38.218023 2021] [authz_core:error] [pid 1775] [client 172.31.215.1:34029] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess.bak
+[Thu Jul 22 02:59:38.220301 2021] [authz_core:error] [pid 1816] [client 172.31.215.1:43583] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess.bak1
+[Thu Jul 22 02:59:38.222438 2021] [authz_core:error] [pid 1820] [client 172.31.215.1:34031] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess.inc
+[Thu Jul 22 02:59:38.224980 2021] [authz_core:error] [pid 1822] [client 172.31.215.1:34027] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess.old
+[Thu Jul 22 02:59:38.227798 2021] [authz_core:error] [pid 1825] [client 172.31.215.1:63208] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess.orig
+[Thu Jul 22 02:59:38.230257 2021] [authz_core:error] [pid 1821] [client 172.31.215.1:11157] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess-marco
+[Thu Jul 22 02:59:38.232240 2021] [authz_core:error] [pid 1774] [client 172.31.215.1:34028] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess.sample
+[Thu Jul 22 02:59:38.234185 2021] [authz_core:error] [pid 1826] [client 172.31.215.1:5108] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess.save
+[Thu Jul 22 02:59:38.237020 2021] [authz_core:error] [pid 1822] [client 172.31.215.1:34027] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess.txt
+[Thu Jul 22 02:59:38.239965 2021] [authz_core:error] [pid 1775] [client 172.31.215.1:34029] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess
+[Thu Jul 22 02:59:38.243099 2021] [authz_core:error] [pid 1820] [client 172.31.215.1:34031] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccessBAK
+[Thu Jul 22 02:59:38.246059 2021] [authz_core:error] [pid 1774] [client 172.31.215.1:34028] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccessOLD
+[Thu Jul 22 02:59:38.249714 2021] [authz_core:error] [pid 1821] [client 172.31.215.1:11157] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccessOLD2
+[Thu Jul 22 02:59:38.251587 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:34030] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess_extra
+[Thu Jul 22 02:59:38.253266 2021] [authz_core:error] [pid 1816] [client 172.31.215.1:43583] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess_orig
+[Thu Jul 22 02:59:38.256310 2021] [authz_core:error] [pid 1775] [client 172.31.215.1:34029] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess_sc
+[Thu Jul 22 02:59:38.259091 2021] [authz_core:error] [pid 1822] [client 172.31.215.1:34027] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htaccess~
+[Thu Jul 22 02:59:38.263460 2021] [authz_core:error] [pid 1774] [client 172.31.215.1:34028] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htgroup
+[Thu Jul 22 02:59:38.269222 2021] [authz_core:error] [pid 1822] [client 172.31.215.1:34027] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htm
+[Thu Jul 22 02:59:38.271411 2021] [authz_core:error] [pid 1774] [client 172.31.215.1:34028] AH01630: client denied by server configuration: /var/www/mitra/uploads/.html
+[Thu Jul 22 02:59:38.272891 2021] [authz_core:error] [pid 1775] [client 172.31.215.1:34029] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htpasswd
+[Thu Jul 22 02:59:38.276621 2021] [authz_core:error] [pid 1816] [client 172.31.215.1:43583] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htpasswd.bak
+[Thu Jul 22 02:59:38.278402 2021] [authz_core:error] [pid 1821] [client 172.31.215.1:11157] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htpasswd
+[Thu Jul 22 02:59:38.281131 2021] [authz_core:error] [pid 1822] [client 172.31.215.1:34027] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htpasswd-old
+[Thu Jul 22 02:59:38.283347 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:34030] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htpasswd.inc
+[Thu Jul 22 02:59:38.286621 2021] [authz_core:error] [pid 1816] [client 172.31.215.1:43583] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htpasswd_test
+[Thu Jul 22 02:59:38.290021 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:34030] AH01630: client denied by server configuration: /var/www/mitra/uploads/.httr-oauth
+[Thu Jul 22 02:59:38.291659 2021] [authz_core:error] [pid 1775] [client 172.31.215.1:34029] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htpasswds
+[Thu Jul 22 02:59:38.294127 2021] [authz_core:error] [pid 1821] [client 172.31.215.1:11157] AH01630: client denied by server configuration: /var/www/mitra/uploads/.htusers
+[Thu Jul 22 02:59:40.170217 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:34030] AH01630: client denied by server configuration: /var/www/mitra/uploads/.user.ini
+[Thu Jul 22 03:00:36.127675 2021] [authz_core:error] [pid 1825] [client 172.31.215.1:28029] AH01630: client denied by server configuration: /var/www/mitra/vendor/.ht_wsr.txt
+[Thu Jul 22 03:00:36.130102 2021] [authz_core:error] [pid 1822] [client 172.31.215.1:24319] AH01630: client denied by server configuration: /var/www/mitra/vendor/.hta
+[Thu Jul 22 03:00:36.131673 2021] [authz_core:error] [pid 1815] [client 172.31.215.1:3591] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess
+[Thu Jul 22 03:00:36.136233 2021] [authz_core:error] [pid 1825] [client 172.31.215.1:28029] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess-dev
+[Thu Jul 22 03:00:36.140532 2021] [authz_core:error] [pid 1820] [client 172.31.215.1:28007] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess.bak
+[Thu Jul 22 03:00:36.143369 2021] [authz_core:error] [pid 1815] [client 172.31.215.1:3591] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess.bak1
+[Thu Jul 22 03:00:36.145037 2021] [authz_core:error] [pid 1826] [client 172.31.215.1:3590] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess-marco
+[Thu Jul 22 03:00:36.147504 2021] [authz_core:error] [pid 1823] [client 172.31.215.1:3903] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess.BAK
+[Thu Jul 22 03:00:36.149775 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:24251] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess-local
+[Thu Jul 22 03:00:36.152629 2021] [authz_core:error] [pid 1820] [client 172.31.215.1:28007] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess.inc
+[Thu Jul 22 03:00:36.153899 2021] [authz_core:error] [pid 1825] [client 172.31.215.1:28029] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess.old
+[Thu Jul 22 03:00:36.169328 2021] [authz_core:error] [pid 1825] [client 172.31.215.1:28029] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess.save
+[Thu Jul 22 03:00:36.170563 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:24251] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess.orig
+[Thu Jul 22 03:00:36.173302 2021] [authz_core:error] [pid 1822] [client 172.31.215.1:24319] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess
+[Thu Jul 22 03:00:36.177255 2021] [authz_core:error] [pid 1820] [client 172.31.215.1:28007] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccessBAK
+[Thu Jul 22 03:00:36.182905 2021] [authz_core:error] [pid 1823] [client 172.31.215.1:3903] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccessOLD
+[Thu Jul 22 03:00:36.184978 2021] [authz_core:error] [pid 1815] [client 172.31.215.1:3591] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccessOLD2
+[Thu Jul 22 03:00:36.186987 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:24251] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess.txt
+[Thu Jul 22 03:00:36.190320 2021] [authz_core:error] [pid 1822] [client 172.31.215.1:24319] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess_extra
+[Thu Jul 22 03:00:36.191348 2021] [authz_core:error] [pid 1826] [client 172.31.215.1:3590] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess.sample
+[Thu Jul 22 03:00:36.193737 2021] [authz_core:error] [pid 1773] [client 172.31.215.1:42209] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess_orig
+[Thu Jul 22 03:00:36.201091 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:24251] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess_sc
+[Thu Jul 22 03:00:36.203433 2021] [authz_core:error] [pid 1825] [client 172.31.215.1:28029] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htgroup
+[Thu Jul 22 03:00:36.207314 2021] [authz_core:error] [pid 1773] [client 172.31.215.1:42209] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htm
+[Thu Jul 22 03:00:36.211128 2021] [authz_core:error] [pid 1825] [client 172.31.215.1:28029] AH01630: client denied by server configuration: /var/www/mitra/vendor/.html
+[Thu Jul 22 03:00:36.212266 2021] [authz_core:error] [pid 1820] [client 172.31.215.1:28007] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htaccess~
+[Thu Jul 22 03:00:36.214729 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:24251] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htpasswd
+[Thu Jul 22 03:00:36.220183 2021] [authz_core:error] [pid 1825] [client 172.31.215.1:28029] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htpasswd-old
+[Thu Jul 22 03:00:36.221825 2021] [authz_core:error] [pid 1773] [client 172.31.215.1:42209] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htpasswd.bak
+[Thu Jul 22 03:00:36.223373 2021] [authz_core:error] [pid 1826] [client 172.31.215.1:3590] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htpasswd.inc
+[Thu Jul 22 03:00:36.226731 2021] [authz_core:error] [pid 21125] [client 172.31.215.1:24251] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htpasswd
+[Thu Jul 22 03:00:36.228786 2021] [authz_core:error] [pid 1815] [client 172.31.215.1:3591] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htpasswd_test
+[Thu Jul 22 03:00:36.232406 2021] [authz_core:error] [pid 1823] [client 172.31.215.1:3903] AH01630: client denied by server configuration: /var/www/mitra/vendor/.httr-oauth
+[Thu Jul 22 03:00:36.234432 2021] [authz_core:error] [pid 1830] [client 172.31.215.1:1752] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htusers
+[Thu Jul 22 03:00:36.238276 2021] [authz_core:error] [pid 1822] [client 172.31.215.1:24319] AH01630: client denied by server configuration: /var/www/mitra/vendor/.htpasswds
+[Thu Jul 22 03:00:38.197612 2021] [authz_core:error] [pid 1824] [client 172.31.215.1:3594] AH01630: client denied by server configuration: /var/www/mitra/vendor/.user.ini
+[Wed Oct 13 10:35:27.736675 2021] [core:error] [pid 12353] [client 172.31.215.1:16331] AH00126: Invalid URI in request GET /cgi-bin/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/bin/sh HTTP/1.1
+[Sun Nov 14 05:05:04.610153 2021] [autoindex:error] [pid 4974] [client 172.31.215.1:7054] AH01276: Cannot serve directory /var/www/mitra/uploads/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive, referer: binance.com
+[Sun Dec 12 17:46:50.866049 2021] [autoindex:error] [pid 19454] [client 172.31.215.1:45391] AH01276: Cannot serve directory /var/www/mitra/uploads/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive, referer: binance.com
+[Sun Dec 12 22:12:47.814722 2021] [autoindex:error] [pid 2282] [client 172.31.215.1:53861] AH01276: Cannot serve directory /var/www/mitra/uploads/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive, referer: binance.com
